@@ -7,7 +7,7 @@
 
 <!-- <img align="right" width="300" src="https://user-images.githubusercontent.com/62133302/201821233-4adf15bc-16ef-4616-b08c-3caa7bad1697.png"/> -->
 
-Hi! 👋 I'm CYTTP! core team of 🔨 [@vueComponent](https://github.com/vueComponent) [@Farm](https://github.com/farm-fe/farm)
+Hi! 👋 I'm CYTTP! 
 
 - 📫 How to reach me: email: 499436550@qq.com
 
